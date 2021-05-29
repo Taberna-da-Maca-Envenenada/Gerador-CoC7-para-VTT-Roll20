@@ -1,0 +1,6 @@
+Selecione 'Gerador-CoC-7' e clique em 'RUN'
+
+Pronto!
+
+Seu personagem estará na pasta 'Personagens'
+Para mais informações de como utilizar abra o 'Leia-me'
