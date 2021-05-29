@@ -1,0 +1,36 @@
+[Informacoes]
+nome = Fernando Viana
+genero = m
+ocupacao = Artista 
+idade = 32
+
+[Atributos]
+str = 55
+con = 35
+siz = 80
+dex = 60
+int = 80
+edu = 50
+pow = 50
+luck = 55
+app = 35
+
+[Derivados]
+vida = 11.5 / 11.5
+magia = 10.0 / 10.0
+sanidade = 50 / 50
+movimento = 7
+valor_de_combate = 135
+corpo = 1
+dx = +1d4
+
+[Antecedentes]
+descricao = Pardo, porte normal, cabelo raspado, barba curta, mesquinho, desafiador
+ideologia_ou_crenca = Membro de uma sociedade ou sociedade secreta
+pessoa_significativa = Pessoa que ensinou a pericia mais alta. Vivência compartilhada
+local_importante = Um lugar para contemplação silenciosa
+pertence_querido = Um item essencial para a sua ocupação
+caracteristica = Ambicioso
+
+[Anotacoes]
+
