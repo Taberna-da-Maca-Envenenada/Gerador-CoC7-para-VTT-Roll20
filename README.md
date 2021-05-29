@@ -10,6 +10,7 @@ Versão: 1.0.01
 Sistema de RPG: Chamado de Cthulhu 7e
 Importação: Extensão VTT Enhancement Suite para Roll20
 Desenvolvido por: Taberna da Maçã Envenenada
+Download e GitHub: https://linklist.bio/tme-softwares-gerador7CoC
 
 ##########################################################
 
