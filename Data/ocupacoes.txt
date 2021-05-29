@@ -1,0 +1,110 @@
+Acrobata 
+Agente Federal 
+Agente Funerário 
+Agricultor 
+Alienista
+Alpinista 
+Andarilho 
+Animador 
+Antiquário
+Apostador 
+Arqueólogo
+Arquiteto 
+Arrombador
+Artesão 
+Artista 
+Assaltante de Bancos
+Assassino
+Assistente de Sanatório 
+Atleta 
+Ator 
+Atravessador
+Auxiliar de Laboratório 
+Aviador
+Bandido de Rua
+Bartender 
+Bibliotecário
+Bombeiro 
+Bootlegger
+Caçador de Grandes Presas 
+Caçador de Recompensas 
+Capanga
+Cavalheiro/Dama 
+Chofer
+Cientista 
+Clero, Membro do 
+Contador 
+Contrabandista
+Correspondente Estrangeiro 
+Cowboy/Cowgirl 
+Criminoso
+Curador de Museu 
+Designer 
+Desprogramador
+Detetive de Agência 
+Detetive Particular
+Diletante
+Dublê 
+Editor 
+Enfermeiro 
+Engenheiro 
+Escritor
+Espião 
+Estudante/Estagiário 
+Explorador
+Falsificador
+Fanático
+Farmacêutico 
+Fotógrafo 
+Fotojornalista
+Gangster 
+Garçonete/Garçom 
+Garimpeiro 
+Golpista
+Hacker
+Jornalista
+Juiz 
+Jurista
+Legista
+Lenhador
+Líder de Culto 
+Livreiro 
+Lojista 
+Marinheiro 
+Mecânico
+Médico
+Mergulhador 
+Mineiro
+Missionário 
+Mordomo/Valete/Aia
+Motorista 
+Músico 
+Negociador de Antiguidades 
+Ocultista
+Oficial Militar 
+Oficial/Investigador de Polícia
+Operário 
+Parapsicólogo 
+Pesquisador 
+Piloto
+Político Eleito 
+Professor
+Programador/Técnico
+Prostituta 
+Psicólogo/Psicanalista 
+Psiquiatra 
+Pugilista/Lutador 
+Repórter
+Secretário 
+Sindicalista 
+Sobrevivencialista 
+Soldado/Fuzileiro Naval 
+Taxista
+Técnico de Higienização Hospitalar 
+Trabalhador de Colarinho Branco
+Tratador de Zoológico 
+Treinador de Animais 
+Tribal 
+Vagabundo 
+Valete
+Vendedor 

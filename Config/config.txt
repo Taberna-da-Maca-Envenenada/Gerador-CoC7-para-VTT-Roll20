@@ -1,0 +1,14 @@
+[Caracteristicas]
+genero = mf
+dinheiro = atual
+ocupacoes_regem_atributos = False
+
+[Gerador]
+numero_pj_por_execucao = 1
+gerar_pj_para = vtt
+
+[Arquivos]
+modelo_vtt = Config/modelo.json
+modelo_txt = Config/modelotxt.txt
+pasta_pj = Personagens
+

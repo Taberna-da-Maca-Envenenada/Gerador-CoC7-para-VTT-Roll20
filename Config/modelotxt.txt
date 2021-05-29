@@ -1,0 +1,35 @@
+[Informacoes]
+nome = nome
+genero = m
+ocupacao = profissao
+idade = 20
+
+[Atributos]
+str = 60
+con = 60
+siz = 60
+dex = 60
+int = 60
+edu = 60
+pow = 60
+luck = 60
+
+[Derivados]
+vida = 60 / 60
+magia = 60 / 60
+sanidade = 60 / 60
+movimento = 7
+valor_de_combate = 120
+corpo = 2
+dx = +1d4
+
+[Antecedentes]
+descricao = bonito
+ideologia_ou_crenca = crenca
+pessoa_significativa = pessoa
+local_importante = local
+pertence_querido = pertence
+caracteristica = caracteristica
+
+[Anotacoes]
+
